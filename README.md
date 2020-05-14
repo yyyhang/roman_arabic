@@ -10,3 +10,5 @@ give as a generalised Roman number with respect to some sequence of generalised 
 
 If that is not possible, then the program will stop, otherwise, the program will find the smallest integer that could be 
 converted from the sequence of letters, viewed as some generalised Roman number, to Arabic.
+
+(This program was a course project of PRINCIPLES OF PROGRAMMING in 2019 T3. The code is a mess. I don't wanna refactor it though.)
